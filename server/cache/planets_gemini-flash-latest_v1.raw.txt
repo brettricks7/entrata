@@ -1,0 +1,60 @@
+{
+  "topic": "planets",
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Which of the following planets is classified as a terrestrial (rocky) planet rather than a gas giant?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Mars"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q2",
+      "prompt": "What is the largest planet in our solar system by both mass and volume?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q3",
+      "prompt": "Which planet is most famous for its highly visible and extensive ring system, primarily composed of ice particles and rock debris?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q4",
+      "prompt": "Which planet is known for having the highest surface temperature in the solar system, primarily due to an extreme greenhouse effect caused by its dense carbon dioxide atmosphere?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q5",
+      "prompt": "Which planet is often referred to as the 'Red Planet' because of the iron oxide prevalent on its surface?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

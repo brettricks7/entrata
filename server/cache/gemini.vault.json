@@ -1,0 +1,10 @@
+{
+  "kdf": "scrypt",
+  "salt": "MukVsvojH7oeav5iQFDwvg==",
+  "N": 16384,
+  "r": 8,
+  "p": 1,
+  "iv": "ecIuVOMbm6IFDIaP",
+  "ciphertext": "uv53BpR4YMC4Fockd8M3OZvEv8+YMSeoM2oAu/h33UchmopfvpAS",
+  "tag": "SBcp20RX8Nbx+U9j8y3qQg=="
+}
