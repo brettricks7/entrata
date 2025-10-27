@@ -2,6 +2,11 @@
 
 A single-page React/TypeScript app backed by an Express/TypeScript API that generates 5-question multiple-choice quizzes via Google Gemini. Results are cached to filesystem to avoid rate limits. Includes a password-locked vault for your API key with a 2-hour TTL auto-expiry.
 
+## For Interviewer
+
+- All you'll need to do is run `npm run dev` at the root level
+- Then enter the password provided in the email
+
 ## Prerequisites
 
 - Node.js 20+
